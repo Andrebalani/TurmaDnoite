@@ -1,5 +1,5 @@
 .cabeçalho {
-    background-color: rgb(243, 242, 235);
+    background-color: rgb(11, 50, 224);
     color: rgb(54, 2, 2);
     display: flex;
     padding: 50px;
@@ -19,7 +19,7 @@
     padding: 20px;
 }
 .escola  {
-    background-color: rgb(218, 179, 153);
+    background-color: rgb(238, 137, 70);
     color: aliceblue;
     font-size: 21px;
     padding: 10px 0px;
@@ -27,4 +27,13 @@
 }
 .escola-titulo {
     padding: 24 px 0;
+}
+body{
+    font-family: sans-serif;
+}
+.Estudantes-imagem {
+    width: 240px;
+}
+.Estudantes - div {
+    text-align: center;
 }
